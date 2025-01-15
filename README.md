@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-👋 Hi, 
+👋 Hi,\
 📊 Passionate about data analysis and solving complex analytical problems.\
 🎯 Currently improving my skills in **Python**, **SQL**, **Power BI**, and statistical modeling.\
 📫 How to reach me: [romeksylvia@gmail.com](mailto\:romeksylvia@gmail.com)
