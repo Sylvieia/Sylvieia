@@ -27,7 +27,7 @@
 
 ### **Analytical Tools**
 
-- Strong knowledge of **Power BI**, \*\*MS Office \*\* and **MS Excel** (advanced functions).
+- Strong knowledge of **Power BI**, **MS Office** and **MS Excel** (advanced functions).
 
 ### **Technical Skills**
 
